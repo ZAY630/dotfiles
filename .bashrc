@@ -9,7 +9,7 @@
 
 # useful: http://tldp.org/LDP/abs/html/sample-bashrc.html
 
-# Contact: Fernando Pérez <fdo.perez@gmail.com>
+# Contact: Aoyu Zou <zy22021@outlook.com>
 
 ############################################################################
 # Source global definitions
